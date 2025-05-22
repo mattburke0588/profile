@@ -55,9 +55,8 @@ const HeroSection = ({ blurred, scroll = true, typed = true }) => {
                     strings={[
                       data.fullName,
                       "Full-Stack Developer",
-                      "Front-End Developer",
+                      "DevOps Engineer",
                       "AI Enthusiast"
-                      //"Blockchain Developer",
                     ]}
                     className="text-primary"
                   />

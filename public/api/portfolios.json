@@ -1,13 +1,33 @@
 [
     {
         "id": 1,
-        "title": "BizBuySell",
-        "subtitle": "React + .NET + MongoDB",
+        "title": "About Healthcare",
+        "subtitle": "Microservices Strategy & Frontend Modernization",
         "coverimage": "/images/portfolios/550-compress/bizbuysell-react.png",
         "imagegallery": ["/images/portfolios/1200-compress/bizbuysell-react.png"],
         "videogallery": false,
-        "url": "https://www.bizbuysell.com/",
-        "filters": ["javascript"]
+        "url": "https://abouthealthcare.com/",
+        "filters": ["vuejs", ".net", "microservice", "javascript", "performance"]
+    },
+    {
+        "id": 2,
+        "title": "Cornerstone National Insurance",
+        "subtitle": "White-Labeled Insurance Mobile App",
+        "coverimage": "/images/portfolios/550-compress/BunnyPark-blockchain.png",
+        "imagegallery": ["/images/portfolios/1200-compress/BunnyPark-blockchain.png"],
+        "videogallery": false,
+        "url": "https://www.cornerstonenational.com/",
+        "filters": ["reactnative", "typescript", "ios", "android", "api"]
+    },
+    {
+        "id": 3,
+        "title": "Opendorse",
+        "subtitle": "NIL Management Platform for Collegiate Athletes",
+        "coverimage": "/images/portfolios/550-compress/Cropper-blockchain.png",
+        "imagegallery": ["/images/portfolios/1200-compress/Cropper-blockchain.png"],
+        "videogallery": false,
+        "url": "https://opendorse.com/",
+        "filters": ["react", ".net", "mssql", "devops", "api"]
     },
     {
         "id": 4,
@@ -37,186 +57,6 @@
         "imagegallery": ["/images/portfolios/1200-compress/flyxo-react.png"],
         "videogallery": false,
         "url": "https://flyxo.com/",
-        "filters": ["javascript"]
-    },
-    {
-        "id": 7,
-        "title": "Swill",
-        "subtitle": "React + Express + MongoDB + Node + TailwindCss",
-        "coverimage": "/images/portfolios/550-compress/getswill-react.png",
-        "imagegallery": ["/images/portfolios/1200-compress/getswill-react.png"],
-        "videogallery": false,
-        "url": "https://www.getswill.com/",
-        "filters": ["javascript"]
-    },
-    {
-        "id": 8,
-        "title": "HashiCorp",
-        "subtitle": "React + Express + PostgreSQL + Node + TailwindCss",
-        "coverimage": "/images/portfolios/550-compress/hashicorp-react.png",
-        "imagegallery": ["/images/portfolios/1200-compress/hashicorp-react.png"],
-        "videogallery": false,
-        "url": "https://www.hashicorp.com/",
-        "filters": ["javascript"]
-    },
-    {
-        "id": 10,
-        "title": "ImperiumGroup",
-        "subtitle": "Laravel + MySQL + ChatGPT API",
-        "coverimage": "/images/portfolios/550-compress/ImperiumGroup-chatgpt.png",
-        "imagegallery": ["/images/portfolios/1200-compress/ImperiumGroup-chatgpt.png"],
-        "videogallery": false,
-        "url": "http://gpt.imperiumgrouppr.com/",
-        "filters": ["chatgpt"]
-    },
-    {
-        "id": 11,
-        "title": "InventiStudio",
-        "subtitle": "Vue + Express + PostgreSQL",
-        "coverimage": "/images/portfolios/550-compress/inventistudio-vue.png",
-        "imagegallery": ["/images/portfolios/1200-compress/inventistudio-vue.png"],
-        "videogallery": false,
-        "url": "https://inventi.studio/",
-        "filters": ["javascript"]
-    },
-    {
-        "id": 12,
-        "title": "JewelerCart",
-        "subtitle": "WordPress + MySQL",
-        "coverimage": "/images/portfolios/550-compress/jewelercart-wordpress.png",
-        "imagegallery": ["/images/portfolios/1200-compress/jewelercart-wordpress.png"],
-        "videogallery": false,
-        "url": "https://www.jewelercart.com/",
-        "filters": ["wordpress"]
-    },
-    {
-        "id": 13,
-        "title": "J.L. Hufford",
-        "subtitle": "Shopify",
-        "coverimage": "/images/portfolios/550-compress/jihufford-shopify.png",
-        "imagegallery": ["/images/portfolios/1200-compress/jihufford-shopify.png"],
-        "videogallery": false,
-        "url": "https://www.jlhufford.com/",
-        "filters": ["shopify"]
-    },
-    {
-        "id": 14,
-        "title": "Mazda",
-        "subtitle": "React + Django + MySQL",
-        "coverimage": "/images/portfolios/550-compress/manzda-react.png",
-        "imagegallery": ["/images/portfolios/1200-compress/manzda-react.png"],
-        "videogallery": false,
-        "url": "https://www.mazda.com.au/",
-        "filters": ["javascript"]
-    },
-    {
-        "id": 15,
-        "title": "MedValley",
-        "subtitle": "WordPress + MySQL",
-        "coverimage": "/images/portfolios/550-compress/medvalley-wordpress.png",
-        "imagegallery": ["/images/portfolios/1200-compress/medvalley-wordpress.png"],
-        "videogallery": false,
-        "url": "https://medvalley.io/",
-        "filters": ["wordpress"]
-    },
-    {
-        "id": 16,
-        "title": "Modesens",
-        "subtitle": "Nuxt + Node + PostgreSQL",
-        "coverimage": "/images/portfolios/550-compress/Modesens-nuxt.png",
-        "imagegallery": ["/images/portfolios/1200-compress/Modesens-nuxt.png"],
-        "videogallery": false,
-        "url": "https://modesens.com/",
-        "filters": ["javascript"]
-    },
-    {
-        "id": 17,
-        "title": "NetworkCapital",
-        "subtitle": "Angular + Typescript + SaSS + MySQL",
-        "coverimage": "/images/portfolios/550-compress/networkcapital-angular.png",
-        "imagegallery": ["/images/portfolios/1200-compress/networkcapital-angular.png"],
-        "videogallery": false,
-        "url": "https://www.networkcapital.com/",
-        "filters": ["javascript"]
-    },
-    {
-        "id": 18,
-        "title": "Perplexity",
-        "subtitle": "Next + TailwindCss + MongoDB + ChatGPT API",
-        "coverimage": "/images/portfolios/550-compress/perplexity-chatgpt.png",
-        "imagegallery": ["/images/portfolios/1200-compress/perplexity-chatgpt.png"],
-        "videogallery": false,
-        "url": "https://www.perplexity.ai/",
-        "filters": ["chatgpt"]
-    },
-    {
-        "id": 19,
-        "title": "Picker",
-        "subtitle": "Angular + Typescript + MongoDB",
-        "coverimage": "/images/portfolios/550-compress/picker-angular.png",
-        "imagegallery": ["/images/portfolios/1200-compress/picker-angular.png"],
-        "videogallery": false,
-        "url": "https://picker.la/",
-        "filters": ["javascript"]
-    },
-    {
-        "id": 20,
-        "title": "Retrobox",
-        "subtitle": "Vue + Node + MongoDB + Express",
-        "coverimage": "/images/portfolios/550-compress/retrobox-vue.png",
-        "imagegallery": ["/images/portfolios/1200-compress/retrobox-vue.png"],
-        "videogallery": false,
-        "url": "https://retrobox.tech/",
-        "filters": ["javascript"]
-    },
-    {
-        "id": 21,
-        "title": "StateOfEuropeanTech",
-        "subtitle": "React + MongoDB + Node + Express",
-        "coverimage": "/images/portfolios/550-compress/state-react.png",
-        "imagegallery": ["/images/portfolios/1200-compress/state-react.png"],
-        "videogallery": false,
-        "url": "https://2017.stateofeuropeantech.com/",
-        "filters": ["javascript"]
-    },
-    {
-        "id": 22,
-        "title": "Strv",
-        "subtitle": "Next + Typescript + TailwindCss + MongoDB",
-        "coverimage": "/images/portfolios/550-compress/strv.com-react.png",
-        "imagegallery": ["/images/portfolios/1200-compress/strv.com-react.png"],
-        "videogallery": false,
-        "url": "https://strv.com/",
-        "filters": ["javascript"]
-    },
-    {
-        "id": 23,
-        "title": "FIL Sumi",
-        "subtitle": "WordPress + Three + MySQL",
-        "coverimage": "/images/portfolios/550-compress/sumi-wordpress.png",
-        "imagegallery": ["/images/portfolios/1200-compress/sumi-wordpress.png"],
-        "videogallery": false,
-        "url": "https://sumi.fillinglife.co/",
-        "filters": ["wordpress"]
-    },
-    {
-        "id": 25,
-        "title": "Twillory",
-        "subtitle": "React + Express + Nodejs + MongoDB + TailwindCss",
-        "coverimage": "/images/portfolios/550-compress/twillory-shopify.png",
-        "imagegallery": ["/images/portfolios/1200-compress/twillory-shopify.png"],
-        "videogallery": false,
-        "url": "https://www.twillory.com/",
-        "filters": ["shopify"]
-    },
-    {
-        "id": 26,
-        "title": "Unitybox",
-        "subtitle": "Angular + Typescript + Laravel + PostgreSQL",
-        "coverimage": "/images/portfolios/550-compress/unitybox-angular.png",
-        "imagegallery": ["/images/portfolios/1200-compress/unitybox-angular.png"],
-        "videogallery": false,
-        "url": "https://unitybox.org/",
         "filters": ["javascript"]
     }
 ]

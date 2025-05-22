@@ -78,7 +78,7 @@ const MobileFullmenu = ({ fullMenuHandler }) => {
           </span>
           <Link href="/">
             <a className="font-medium text-heading no-underline hover:text-primary">
-              Oleksandr Solovei
+              Matt Burke
             </a>
           </Link>
         </p>

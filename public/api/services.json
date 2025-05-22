@@ -1,20 +1,20 @@
 [
     {
-        "id": 1,
-        "title": "Web Development",
-        "text": "With a deep understanding of web technologies and a passion for innovation, I strive to create robust, scalable, and visually appealing web solutions that effectively communicate the client's message to a wide audience.",
-        "icon": "/icons/code-s-slash-line.svg"
+      "id": 1,
+      "title": "Full Stack Architecture",
+      "text": "I design and lead development of scalable full stack platforms using modern frameworks like .NET, React, and Vue.js. My focus is on building maintainable, high-performance systems that scale with business growth.",
+      "icon": "/icons/code-s-slash-line.svg"
     },
     {
-        "id": 2,
-        "title": "AI chatbot Development",
-        "text": "With a real passion for innovation, I strive to develop customized AI chabot using OpenAI, Pinecone and Langchain and stay current with the latest AI technologies.",
-        "icon": "/icons/bitcoin-svgrepo-com.svg"
+      "id": 2,
+      "title": "API Design & Integration",
+      "text": "I specialize in architecting clean, reliable REST APIs and integrating them into complex systems. I’ve optimized back-end performance, led microservice migrations, and worked extensively with Azure API Management.",
+      "icon": "/icons/quill-pen-line.svg"
     },
     {
-        "id": 3,
-        "title": "Mobile App Development",
-        "text": "As a mobile developer, I create high-quality, responsive mobile applications, leveraging my skills in full-stack development to deliver innovative solutions that meet the needs of today's mobile-first world.",
-        "icon": "/icons/smartphone-line.svg"
+      "id": 3,
+      "title": "Mobile App Development",
+      "text": "With experience building React Native apps from the ground up, I deliver cross-platform mobile solutions that integrate seamlessly with enterprise systems like policy management, payments, and real-time communication.",
+      "icon": "/icons/smartphone-line.svg"
     }
 ]

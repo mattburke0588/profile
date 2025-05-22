@@ -7,7 +7,7 @@ const contact = () => {
   return (
     <Layout2>
       <Head>
-        <title>Contact - Oleksandr Solovei Portfolio</title>
+        <title>Contact - Matt Burke Portfolio</title>
       </Head>
 
       {/* Start Contact Section */}

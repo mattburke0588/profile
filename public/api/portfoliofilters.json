@@ -6,22 +6,27 @@
     },
     {
         "id": 2,
-        "title": "Blockchain",
-        "value": "blockchain"
+        "title": ".NET",
+        "value": ".net"
     },
     {
         "id": 3,
-        "title": "WordPress",
-        "value": "wordpress"
+        "title": "DevOps",
+        "value": "devops"
     },
     {
         "id": 4,
-        "title": "Shopify",
-        "value": "shopify"
+        "title": "React",
+        "value": "react"
     },
     {
         "id": 5,
         "title": "ChatGPT",
         "value": "chatgpt"
+    },
+    {
+        "id": 6,
+        "title": "React Native",
+        "value": "reactnative"
     }
 ]

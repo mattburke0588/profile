@@ -138,5 +138,20 @@
         "id": 22,
         "title": "Trello",
         "percentage": 99
+    },
+    {
+        "id": 23,
+        "title": "ASP.NET Core",
+        "percentage": 99
+    },
+    {
+        "id": 24,
+        "title": "Azure DevOps",
+        "percentage": 90
+    },
+    {
+        "id": 25,
+        "title": "MS SQL Server",
+        "percentage": 98
     }
 ]

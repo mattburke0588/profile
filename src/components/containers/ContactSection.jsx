@@ -65,7 +65,7 @@ const ContactSection = () => {
               <div className="content">
                 <h5 className="mb-2">Contact address</h5>
                 <p className="mb-0">
-                Rivnenska district Hoshchanskyi settlement, Hoscha, Ukraine
+                506 Southwest 13th Street, Blue Springs , MO 64015, United States
                 </p>
               </div>
             </div>

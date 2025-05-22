@@ -1,7 +1,7 @@
 {
-    "name": "Yusuke",
-    "description": "Yusuke Watanabe Personal Portfolio",
-    "author": "Yusuke Watanabe",
+    "name": "Matt Burke Personal Portfolio",
+    "description": "Matt Burke Personal Portfolio",
+    "author": "Matt Burke",
     "version": "1.0.0",
     "main": "index.js",
     "private": true,

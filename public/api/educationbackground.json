@@ -1,9 +1,9 @@
 [
     {
         "id": 1,
-        "title": "Computer Science",
+        "title": "Arts",
         "meta": "Bachelor of degree",
-        "text": ["Arizona state university"],
-        "year": "2011 - 2015"
+        "text": ["Grove City College"],
+        "year": "2005 - 2009"
     }
 ]

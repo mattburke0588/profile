@@ -1,13 +1,14 @@
 {
-  "firstName": "Oleksandr ",
-  "lastName": "Solovei",
-  "fullName": "Oleksandr Solovei",
+  "firstName": "Matt ",
+  "lastName": "Burke",
+  "fullName": "Matt Burke",
   "thumbImage": "/images/formal-image.png",
   "largeImage": "/images/about-image.jpg",
-  "bio": "As a full-stack developer, I bring a strong skillset in modern web technologies and a dedication to crafting elegant, user-friendly applications that drive results.",
-  "nationality": "Ukraine",
-  "address": "Rivnenska district Hoshchanskyi settlement, Hoscha, Ukraine",
+  "bio": "I’m a Software Architect and Tech Lead with over a decade of experience building full-stack platforms that scale. I don’t just write code — I build systems, lead teams, and deliver results.\n\nI’ve led development efforts for high-stakes platforms like Opendorse (React, .NET 5, SQL Server), where we went from zero to MVP in 13 weeks — just in time to launch a revenue-generating NIL platform. For Cornerstone National Insurance, I designed and delivered a white-labeled mobile app on React Native integrated with their backend systems, giving policyholders instant access to documents, claims, and payments.\n\nI bring technical leadership and deep architectural insight to every project: from performance tuning APIs to mentoring teams and modernizing dev workflows. I’ve trained junior devs, defined engineering growth paths, and overhauled CI/CD pipelines to cut build times by more than 60%.\n\nClients trust me because I’m reliable, fast, and pragmatic. I communicate clearly, meet deadlines, and always look for ways to improve both the product and the process. If you need a partner who can handle the technical heavy lifting and lead your dev team with clarity and purpose — let’s talk.",
+  "nationality": "United States",
+  "address": "506 Southwest 13th Street, Blue Springs , MO 64015, United States",
   "freelance": "Available",
-  "phoneNumbers": ["+380 97 355 9293"],
-  "emailAddress": ["oleksandrsolovei@gmail.com"]
+  "github": "https://github.com/stackbuddyai",
+  "phoneNumbers": ["+1 2703082406"],
+  "emailAddress": ["matt.burke.0588@gmail.com"]
 }

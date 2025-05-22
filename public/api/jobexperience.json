@@ -1,44 +1,45 @@
 [
     {
-        "id": 1,
-        "title": "Senior Software Engineer",
-        "meta": "Lotus Labs",
-        "text": [
-            "Developed a user interface for a chatbot utilizing Next.js and Tailwind CSS.",
-            "Engineered a custom language model integrated with the OpenAI API and Pinecone for enhanced natural language processing capabilities.",
-            "Applied a training feature through Langchain, enabling fine-tuning of the language model via manual input of questions and answers, uploading documents, or website scraping.",
-            "Implemented Agile methodologies, including Scrum and Kanban, to enhance project management processes, improve team efficiency, and deliver software iteratively.",
-            "Led the architectural design and implementation of a scalable EduTech platform, optimizing performance and flexibility for future enhancements.",
-            "Worked with Web3 to create decentralized, blockchain-enabled web applications."
-        ],
-        "year": "Jan 2022 — Oct 2023"
+      "id": 1,
+      "title": "Owner",
+      "meta": "Blueprint Software Labs, LLC",
+      "text": [
+        "Independent Software Architect and Lead Developer.",
+        "Served as technical lead across multiple client projects, managing architecture, delivery, and engineering mentoring.",
+        "Specialized in performance optimization, full stack web development, and CI/CD automation.",
+        "Trained and coached developers on software design patterns, architecture principles, and dev workflow best practices.",
+        "Built and deployed production-ready full stack systems across .NET, Node.js, and modern front-end frameworks.",
+        "Drove initiatives for developer onboarding, engineering standards, and technical documentation."
+      ],
+      "year": "Jul 2024 — Present"
     },
     {
-        "id": 2,
-        "title": "Full Stack Engineer",
-        "meta": "XO Global LLC",
-        "text": [
-            "Designed and developed a comprehensive private aviation network platform from scratch, allowing users to seamlessly book flights based on their specified departure and destination preferences.",
-            "Utilized Next.js, TypeScript, Redux, and SCSS to construct diverse user interfaces supporting key features such as flight search and booking, KYC ՄKnow Your Customer) verification, membership benefits, account management, and promo code functionality.",
-            "Implemented a real-time chat system facilitating instant communication between the support team and customers, leveraging Socket.io for seamless and responsive interactions.",
-            "Integrated a secure payment system based on credit card transactions.",
-            "Established a robust backend infrastructure by configuring API endpoints and designing a database schema using Nest.js, TypeORM, and PostgreSQL.",
-            "Set up the whole CI/CD pipeline, optimizing the software development workflow for increased efficiency and automated deployment to staging, QA, and production versions."
-        ],
-        "year": "Apr 2018 - Oct 2021"
+      "id": 2,
+      "title": "Software Architect",
+      "meta": "ABOUT Healthcare",
+      "text": [
+        "Led architectural strategy and engineering management for two full stack .NET and Vue.js teams.",
+        "Designed and implemented greenfield microservices to replace a legacy monolith, enabling modular development.",
+        "Improved API performance and streamlined deployment pipelines.",
+        "Mentored developers on architecture, testing, and agile workflows.",
+        "Redesigned the front-end build process and reduced Azure DevOps build times from over 60 minutes to 20 minutes.",
+        "Collaborated with stakeholders on roadmap planning, backlog grooming, and project sequencing."
+      ],
+      "year": "Oct 2023 — Jul 2024"
     },
     {
-        "id": 3,
-        "title": "Web Developer",
-        "meta": "Epic Web Solutions",
-        "text": [
-            "Built a front-end widget that is added as a single external script to an HTML page but works as a big library using vanilla JavaScript and jQuery.",
-            "Developed and maintained modular, reusable code using HTML5, CSS3, and JavaScript frameworks such as React.js and Vue.js.",
-            "Worked in a Scrum team using Github, Slack, and Trello for team collaboration.",
-            "Collaborated with the design team to implement website layouts and user interfaces based on wireframes and design mockups.",
-            "Worked closely with back-end developers to integrate front-end components with server-side logic using REST APIs.",
-            "Established and maintained CI/CD solutions for rapidly deploying software across development and production environments."
-        ],
-        "year": "Apr 2016 - Mar 2018"
+      "id": 3,
+      "title": "Software Architect",
+      "meta": "Viagio Technologies",
+      "text": [
+        "Acted as lead developer and architect across multiple client engagements, delivering both short and long-term projects.",
+        "Designed backend systems using Java, .NET, and Node.js with strong focus on scalability and maintainability.",
+        "Built modern front-end applications using React and Angular.",
+        "Created engineering growth rubrics and mentorship plans to support career development.",
+        "Led requirements gathering, task estimation, and technical team leadership throughout the SDLC.",
+        "Delivered internal training, presentations, and onboarding sessions for junior and mid-level developers."
+      ],
+      "year": "Dec 2020 — Oct 2023"
     }
 ]
+  

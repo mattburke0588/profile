@@ -102,6 +102,14 @@ const AboutSection = () => {
                 : {data.freelance}
               </li>
             )}
+            {data.github && (
+              <li className="text-lg">
+                <strong className="inline-block min-w-[120px] font-medium">
+                  GitHub{" "}
+                </strong>
+                : {data.github}
+              </li>
+            )}
           </ul>
         </motion.div>
       </div>
