@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "title": "UI/UX Design",
+        "percentage": 85
+    },
+    {
+        "id": 2,
+        "title": "Front-End Development",
+        "percentage": 98
+    },
+    {
+        "id": 3,
+        "title": "Back-End Development",
+        "percentage": 95
+    },
+    {
+        "id": 4,
+        "title": "AI Engineering",
+        "percentage": 80
+    }
+]

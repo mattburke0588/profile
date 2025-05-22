@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "name": "Terry Gardiner",
+        "meta": "Founder - BestpracticesWiki.",
+        "givenreview": 5.0,
+        "image": "/images/user-avatar-1.png",
+        "text": "I had the pleasure of working with Yusuke Watananbe and I can confidently say that he is a skilled and knowledgeable full stack developer. He possess exceptional communication skills and are committed to delivering high-quality results. I highly recommend him for any project that requires an expert in full-stack technologies."
+    },
+    {
+        "id": 2,
+        "name": "Bernard Panek",
+        "meta": "President - R.B. Homes, Inc.",
+        "givenreview": 5,
+        "image": "/images/user-avatar-2.png",
+        "text": "Yusuke Watananbe is a true professional with exceptional technical skills, attention to detail and communication skills. he is dedicated to delivering high-quality work and have a passion for his craft that is evident in their outstanding results. Anyone who has the opportunity to work with him is sure to be impressed."
+    },
+    {
+        "id": 3,
+        "name": "Guy Robert",
+        "meta": "Technical Advisor - Adversor Inc",
+        "givenreview": 5,
+        "image": "/images/user-avatar-3.png",
+        "text": "Yusuke Watananbe is a skilled and proficient full stack developer, who consistently delivers high-quality work on time. His attention to detail and communication skills make him a valuable asset to any client. He has a genuine passion for his craft that is evident in the exceptional results he produce."
+    },
+    {
+        "id": 4,
+        "name": "Brett Wharton",
+        "meta": "CEO - Nexus Marketing",
+        "givenreview": 5,
+        "image": "/images/user-avatar-4.png",
+        "text": "Yusuke Watananbe is a true master of his craft, with an outstanding level of expertise in front-end and back-end technologies. His attention to detail and excellent communication skills are invaluable assets. His dedication to keeping up with the latest trends and technologies guarantees outstanding results on every project he works on."
+    }
+]

@@ -1,0 +1,13 @@
+{
+  "firstName": "Oleksandr ",
+  "lastName": "Solovei",
+  "fullName": "Oleksandr Solovei",
+  "thumbImage": "/images/formal-image.png",
+  "largeImage": "/images/about-image.jpg",
+  "bio": "As a full-stack developer, I bring a strong skillset in modern web technologies and a dedication to crafting elegant, user-friendly applications that drive results.",
+  "nationality": "Ukraine",
+  "address": "Rivnenska district Hoshchanskyi settlement, Hoscha, Ukraine",
+  "freelance": "Available",
+  "phoneNumbers": ["+380 97 355 9293"],
+  "emailAddress": ["oleksandrsolovei@gmail.com"]
+}

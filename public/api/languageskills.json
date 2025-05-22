@@ -1,0 +1,142 @@
+[
+    {
+        "id": 1,
+        "title": "Javascript",
+        "percentage": 99
+    },
+    {
+        "id": 2,
+        "title": "React Js",
+        "percentage": 99
+    },
+    {
+        "id": 3,
+        "title": "Typescript",
+        "percentage": 99
+    },
+    {
+        "id": 4,
+        "title": "Angular JS",
+        "percentage": 90
+    },
+    {
+        "id": 5,
+        "title": "Vue JS",
+        "percentage": 90
+    },
+    {
+        "id": 6,
+        "title": "Node JS",
+        "percentage": 95
+    },
+    {
+        "id": 7,
+        "title": "Express JS",
+        "percentage": 95
+    },
+    {
+        "id": 8,
+        "title": "Nest JS",
+        "percentage": 90
+    },
+    {
+        "id": 9,
+        "title": "Restful API",
+        "percentage": 90
+    },
+    {
+        "id": 10,
+        "title": "GraphQL",
+        "percentage": 95
+    },
+    {
+        "id": 11,
+        "title": "WebSocket",
+        "percentage": 90
+    },
+    {
+        "id": 12,
+        "title": "TailwindCss",
+        "percentage": 99
+    },
+    {
+        "id": 13,
+        "title": "SCSS",
+        "percentage": 90
+    },
+    {
+        "id": 14,
+        "title": "Python",
+        "percentage": 99
+    },
+    {
+        "id": 15,
+        "title": "OpenAI",
+        "percentage": 99
+    },
+    {
+        "id": 16,
+        "title": "Langchain",
+        "percentage": 99
+    },
+    {
+        "id": 17,
+        "title": "Pinecone",
+        "percentage": 99
+    },
+    {
+        "id": 18,
+        "title": "MongoDB",
+        "percentage": 99
+    },
+    {
+        "id": 19,
+        "title": "Docker",
+        "percentage": 90
+    },
+    {
+        "id": 20,
+        "title": "MySQL",
+        "percentage": 90
+    },
+    {
+        "id": 21,
+        "title": "PostgreSQL",
+        "percentage": 90
+    },
+    {
+        "id": 22,
+        "title": "Next JS",
+        "percentage": 99
+    },
+    {
+        "id": 22,
+        "title": "TypeORM",
+        "percentage": 99
+    },
+    {
+        "id": 22,
+        "title": "Git",
+        "percentage": 99
+    },
+    {
+        "id": 22,
+        "title": "AWS",
+        "percentage": 99
+    },
+    {
+        "id": 22,
+        "title": "Jira",
+        "percentage": 99
+    },
+    {
+        "id": 22,
+        "title": "GCP",
+        "percentage": 99
+    },
+    {
+        "id": 22,
+        "title": "Trello",
+        "percentage": 99
+    }
+]

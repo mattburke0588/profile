@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "title": "Senior Software Engineer",
+        "meta": "Lotus Labs",
+        "text": [
+            "Developed a user interface for a chatbot utilizing Next.js and Tailwind CSS.",
+            "Engineered a custom language model integrated with the OpenAI API and Pinecone for enhanced natural language processing capabilities.",
+            "Applied a training feature through Langchain, enabling fine-tuning of the language model via manual input of questions and answers, uploading documents, or website scraping.",
+            "Implemented Agile methodologies, including Scrum and Kanban, to enhance project management processes, improve team efficiency, and deliver software iteratively.",
+            "Led the architectural design and implementation of a scalable EduTech platform, optimizing performance and flexibility for future enhancements.",
+            "Worked with Web3 to create decentralized, blockchain-enabled web applications."
+        ],
+        "year": "Jan 2022 — Oct 2023"
+    },
+    {
+        "id": 2,
+        "title": "Full Stack Engineer",
+        "meta": "XO Global LLC",
+        "text": [
+            "Designed and developed a comprehensive private aviation network platform from scratch, allowing users to seamlessly book flights based on their specified departure and destination preferences.",
+            "Utilized Next.js, TypeScript, Redux, and SCSS to construct diverse user interfaces supporting key features such as flight search and booking, KYC ՄKnow Your Customer) verification, membership benefits, account management, and promo code functionality.",
+            "Implemented a real-time chat system facilitating instant communication between the support team and customers, leveraging Socket.io for seamless and responsive interactions.",
+            "Integrated a secure payment system based on credit card transactions.",
+            "Established a robust backend infrastructure by configuring API endpoints and designing a database schema using Nest.js, TypeORM, and PostgreSQL.",
+            "Set up the whole CI/CD pipeline, optimizing the software development workflow for increased efficiency and automated deployment to staging, QA, and production versions."
+        ],
+        "year": "Apr 2018 - Oct 2021"
+    },
+    {
+        "id": 3,
+        "title": "Web Developer",
+        "meta": "Epic Web Solutions",
+        "text": [
+            "Built a front-end widget that is added as a single external script to an HTML page but works as a big library using vanilla JavaScript and jQuery.",
+            "Developed and maintained modular, reusable code using HTML5, CSS3, and JavaScript frameworks such as React.js and Vue.js.",
+            "Worked in a Scrum team using Github, Slack, and Trello for team collaboration.",
+            "Collaborated with the design team to implement website layouts and user interfaces based on wireframes and design mockups.",
+            "Worked closely with back-end developers to integrate front-end components with server-side logic using REST APIs.",
+            "Established and maintained CI/CD solutions for rapidly deploying software across development and production environments."
+        ],
+        "year": "Apr 2016 - Mar 2018"
+    }
+]

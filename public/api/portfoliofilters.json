@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "title": "Javascript",
+        "value": "javascript"
+    },
+    {
+        "id": 2,
+        "title": "Blockchain",
+        "value": "blockchain"
+    },
+    {
+        "id": 3,
+        "title": "WordPress",
+        "value": "wordpress"
+    },
+    {
+        "id": 4,
+        "title": "Shopify",
+        "value": "shopify"
+    },
+    {
+        "id": 5,
+        "title": "ChatGPT",
+        "value": "chatgpt"
+    }
+]
